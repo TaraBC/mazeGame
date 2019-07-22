@@ -1,0 +1,7 @@
+In Game Controls:
+
+Right arrow key: Move right
+Left arrow key: Move left
+Up arrow key: Move up
+Down arrow key: Move down
+Escape key: Open/close in-game menu
